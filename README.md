@@ -7,7 +7,8 @@ Link do projeto: http://127.0.0.1:5500/index.html
 HTML
 CSS 
 
-- ✏️ O site ainda está em construção. 📖 Utilizados práticas que aprendir durante o curso básico de html e css DIO.me.
+- ✏️ O site ainda está em construção.
+- 📖 Utilizados práticas que aprendir durante o curso básico de html e css DIO.me.
 
 <!DOCTYPE html>
 <html lang="en">
