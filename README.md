@@ -9,6 +9,12 @@ CSS
 
 - ✏️ O site ainda está em construção.
 - 📖  Práticas utilizadas durante o curso básico de html e css DIO.me.
+- 📝 Aprendizado
+
+Fazer um site completo, deixando ele navegável
+inserir conteúdo multimídia (imagem, video, iframe, audio)
+Criar tabelas e formulários
+Fazer ajuste de texto e imagens, como cores, alinhamento, largura, dentre outros
 
 <!DOCTYPE html>
 <html lang="en">
