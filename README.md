@@ -8,7 +8,7 @@ HTML
 CSS 
 
 - ✏️ O site ainda está em construção.
-- 📖 Utilizados práticas que aprendir durante o curso básico de html e css DIO.me.
+- 📖  Práticas utilizadas durante o curso básico de html e css DIO.me.
 
 <!DOCTYPE html>
 <html lang="en">
