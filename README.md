@@ -1,10 +1,13 @@
 # Projeto
 Link do projeto: http://127.0.0.1:5500/index.html
-PROJETO- Criação de um site clínica veterinária.
-🎯 Tecnologias Utilizadas:
 
+- PROJETO- Criação de um site clínica veterinária.
+
+- 🎯 Tecnologias Utilizadas:
 HTML
-CSS ✏️ O site ainda está em construção. 📖 Utilizados práticas que aprendir durante o curso básico de html e css DIO.me.
+CSS 
+
+- ✏️ O site ainda está em construção. 📖 Utilizados práticas que aprendir durante o curso básico de html e css DIO.me.
 
 <!DOCTYPE html>
 <html lang="en">
