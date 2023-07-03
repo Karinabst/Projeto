@@ -1,7 +1,7 @@
 # Projeto
 Link do projeto: http://127.0.0.1:5500/index.html
 
-- PROJETO- Criação de um site clínica veterinária.
+- PROJETO- Criação de um site de uma clínica veterinária.
 
 - 🎯 Tecnologias Utilizadas:
 HTML
