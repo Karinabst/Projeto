@@ -8,8 +8,8 @@ HTML
 CSS 
 
 - ✏️ O site ainda está em construção.
-- 📖  Práticas utilizadas durante o curso básico de html e css DIO.me.
 - 📝 Aprendizado
+- 📖  Práticas utilizadas
 
 Fazer um site completo, deixando ele navegável
 inserir conteúdo multimídia (imagem, video, iframe, audio)
