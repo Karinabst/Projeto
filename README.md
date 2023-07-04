@@ -5,7 +5,7 @@ Link do Site: http://127.0.0.1:5500/index.html
 
 - 🎯 Tecnologias Utilizadas:
 - HTML
-- CSS Um pouco
+- Um pouco de CSS
 
 - ✏️ O site ainda está em construção.
 - 📝 Aprendizado
