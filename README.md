@@ -1,5 +1,5 @@
 # Projeto
-Link do Site: http://127.0.0.1:5500/index.html
+Link do Site: file:///C:/Users/Karina/Desktop/Dio%20HTML/Aula%20Pr%C3%A1tica/Clinica%20medica/index.html
 
 - PROJETO- Criação de um site de uma clínica veterinária.
 
