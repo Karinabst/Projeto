@@ -4,8 +4,8 @@ Link do Site: http://127.0.0.1:5500/index.html
 - PROJETO- Criação de um site de uma clínica veterinária.
 
 - 🎯 Tecnologias Utilizadas:
-HTML
-CSS 
+- HTML
+- CSS Um pouco
 
 - ✏️ O site ainda está em construção.
 - 📝 Aprendizado
